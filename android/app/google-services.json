@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "325805109244",
+    "project_id": "hifz-tracker-4kb4r",
+    "storage_bucket": "hifz-tracker-4kb4r.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325805109244:android:5df39b7a0501931ab18c79",
+        "android_client_info": {
+          "package_name": "com.example.hifz_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325805109244-4vt4uj8uuiobbm6mn02u52ckcf87l7fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCV6e81EGGtcx-lpLN_9fPAtaBbuBPjfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325805109244-4vt4uj8uuiobbm6mn02u52ckcf87l7fa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325805109244-oat697km74uducsb30smbfknvvno96ip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hifzTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325805109244:android:a13556a61285649bb18c79",
+        "android_client_info": {
+          "package_name": "com.example.hifz_tracker_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325805109244-4vt4uj8uuiobbm6mn02u52ckcf87l7fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCV6e81EGGtcx-lpLN_9fPAtaBbuBPjfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325805109244-4vt4uj8uuiobbm6mn02u52ckcf87l7fa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325805109244-oat697km74uducsb30smbfknvvno96ip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hifzTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
